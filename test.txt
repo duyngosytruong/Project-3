@@ -1,3 +1,1 @@
-Commit lan 2
-Thay xoa 1 file
-Local 2 push
+User 2 commit
